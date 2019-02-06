@@ -5,6 +5,7 @@ Papildykite programą kuri neleistu įvesti ne skaičius,
 jei vartotojas įveda ne skaičių
 programa praso pakartoti tol, kol bus įvestas skaičius.
 */
+
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
