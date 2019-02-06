@@ -6,9 +6,6 @@ import java.util.Scanner;
 
 public class Uzduotis1 {
     public static void main(String[] args) {
-        /* Parayti programą, kuri leistų vartotojui įvesti norimą skaičių 
-		ir po to parasytų ar sis skaičius yra lyginis, ar nelyginis. 
-		Užuomina - panaudokite % operatoriu. */
 
         System.out.println("Iveskite skaiciu");
         Scanner scanner = new Scanner(System.in);
