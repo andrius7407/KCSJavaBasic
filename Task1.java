@@ -1,4 +1,4 @@
-/* Parayti programą, kuri leistų vartotojui įvesti norimą skaičių 
+/* Parasyti programą, kuri leistų vartotojui įvesti norimą skaičių 
 ir po to parasytų ar sis skaičius yra lyginis, ar nelyginis. 
 Užuomina - panaudokite % operatoriu. */
 
