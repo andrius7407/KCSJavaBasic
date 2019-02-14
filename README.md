@@ -1,4 +1,5 @@
 # KCSJavaBasic
+
 Task1 EnterIntSayOddOrEven
 Task2 EnterQuantityXEnterXNumbersPrintNumbersLower100
 Task3 EnterNumbersWhen0PrintSum
