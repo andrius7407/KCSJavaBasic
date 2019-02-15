@@ -9,14 +9,16 @@ import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 
-
 public class Penkiolika {
+    
     public static int kiekTeksteZodziu(String fileName)throws IOException{
         int kiekZodziu = 0;
+        
         BufferedReader bufferedReader = null;
         try {
             File file = new File(fileName);
             bufferedReader = new BufferedReader(new FileReader(file));
+            
             String line;
             while ((line = bufferedReader.readLine()) != null){
                 if(!line.trim().isEmpty()){
@@ -24,6 +26,7 @@ public class Penkiolika {
                     kiekZodziu = kiekZodziu + eilute.length;
                 }
             }
+            
         }catch (IOException e){
             e.printStackTrace();
         }finally {
@@ -35,6 +38,7 @@ public class Penkiolika {
         }
         return kiekZodziu;
     }
+    
     public static void main(String[] args) throws IOException {
         int kiekZodziu = kiekTeksteZodziu("src\\tekstas.txt");
         System.out.println(kiekZodziu);
