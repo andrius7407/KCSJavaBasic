@@ -7,7 +7,6 @@ Task05 Enter5WordsPrintTheseWords
 Task06 MixTwoArrays                                                                                                               
 Task07 CountEvenNumbersInTwoDimentionalArray   
 Task08 CountSumOfNumbersWitchAreUp5  
-Task09 FindValueOfFunction
-Task10 CountLettersAInTheWord 
-Task11 CheckIfStringContainsSequenceOfCharacters  
-
+Task09 FindValueOfFunction  
+Task10 CountLettersAInTheWord   
+Task11 CheckIfStringContainsSequenceOfCharacters    
