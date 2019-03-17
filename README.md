@@ -14,5 +14,7 @@ Task12 ReadFilePrintContent
 Task13 ReadFilePrintNamesIfStartsWithA  
 Task14 CheckIfTextContainsString    
 Task15 CreateMethodWhitchReturnsCountWordsInText  
-Task16 CreateClassForReadingFileAndPrinting 
-
+Task16 CreateClassForReadingFileAndPrinting   
+Task17 CreateClassWithMethodsAdditionSubtractionMultiplication  
+Task18 CreateClassWithMethodsReadToListPrintFromList  
+Task19 CreateClassWithMethodsReadNumbersToListPrintCountSum
